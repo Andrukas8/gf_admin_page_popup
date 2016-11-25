@@ -519,6 +519,17 @@ section .faded .popup-wrapper{
 }
 
 
+section .faded .popup-wrapper .carrier-label {
+  font-weight: normal;
+}
+
+section .faded .popup-wrapper .carrier-name {
+  font-size: 0.9em;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  
+}
+
 /*popup grid*/
 
 section .faded .form-wrapper .user-form .form-inputs .popup-form-row {
