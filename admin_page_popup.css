@@ -561,6 +561,7 @@ pointer-events: none;
 	height: 35px;
   color: transparent;
   float: left;
+  font-size: 0;
 }
 
 .popup-button-alingment {
