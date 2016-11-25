@@ -560,7 +560,7 @@ pointer-events: none;
 	width: 29px;
 	height: 35px;
   color: transparent;
-  float: left;
+  display: block;
   font-size: 0;
 }
 
