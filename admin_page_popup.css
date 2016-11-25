@@ -514,6 +514,7 @@ section .faded .popup-wrapper{
   width: 55%;
   margin: 25% auto;
   padding-bottom: 10px;
+  min-width: 250px;
 }
 
 
@@ -527,6 +528,7 @@ section .form-wrapper .user-form .form-inputs .popup-form-row .popup-form-col {
   float: left;
   width: 11%;
   margin-left: 15px;
+  min-width: 40px;
 }
 
 section .form-wrapper .user-form .form-inputs .popup-form-row .popup-form-col input[type=text]{
@@ -556,7 +558,6 @@ pointer-events: none;
   background: url('pics/sprite.png') no-repeat -401px -15px;
 	width: 29px;
 	height: 35px;
-  /*line-height: 35px;*/
   color: transparent;
   float: left;
 }
